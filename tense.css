@@ -1,0 +1,52 @@
+/* font-family: "Noto Serif Bengali", serif; */
+/* font-family: "DM Serif Text", serif; */
+*{
+  font-family: "Noto Serif Bengali", serif;
+  box-sizing: border-box;
+}
+body{
+background-image:linear-gradient(hsla(193, 100%, 99%, 1),hsla(193, 100%, 95%, 1));
+
+}
+#heading{
+  font-family: "DM Serif Text", serif;
+}
+
+#heading h1{
+  text-align: center;
+  margin:3px 2px;
+}
+#heading h2{
+  text-align:center;
+  margin:3px 2px;
+
+}
+#navigation{
+  font-size: 10px;
+  text-align: left;
+  height:60px;
+}
+.example{
+  text-align: center;
+  height: 15px;
+}
+#tenseTypes h5{
+  text-align:center;
+  height:10px;
+  font-size: 20px;
+}
+#button{
+ padding: 10px;
+ border: 2px solid #1662D0;
+ border-radius: 7px;
+ color:#FFFFFF;
+ margin-left: 190px;
+ font-size: 15px;
+ width: 150px;
+ background-color: #1662D0;
+}
+#button:hover{
+  background-color: #FFFFFF;
+  color:#1662D0;
+  border-color: #1662D0;
+}
